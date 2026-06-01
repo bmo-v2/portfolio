@@ -2,7 +2,7 @@
 
 :root {
   --background: #0a0a0a;
-  --primary: #ffffff;
+  --primary: #EDEADE;
   --secondary: #666666;
   --font-title: 'Ibarra Real Nova', serif;
   --font-sans: 'Barlow Condensed', sans-serif;
@@ -135,7 +135,7 @@ textarea {
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #252525;
-    --primary: #ffffff;
+    --primary: #EDEADE;
     --secondary: #666666;
   }
 }
